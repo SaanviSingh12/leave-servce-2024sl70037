@@ -7,7 +7,7 @@ public class LeaveCalculator {
         }
         return 10;
     }
-
+// comment for 2024sl70037
     public int getLeaveEncashment(String empId) {
         if (empId == null) {
                 return 0;
